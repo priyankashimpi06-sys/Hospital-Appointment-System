@@ -1,0 +1,13 @@
+{
+  "name": "hospital-appointment-system",
+  "version": "1.0.0",
+  "description": "DevOps Mini Project - Hospital Appointment System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
